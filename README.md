@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks:** React, Vue, Node.js,Tailwind CSS
-- **Tools:** Git, Webpack, Visual Studio Code  ![javascript-original](https://github.com/user-attachments/assets/c1d96371-5e8d-456c-9ed3-e5590358d323)
+- **Tools:** Git, Webpack, Visual Studio Code
 
 ## Projects
 
