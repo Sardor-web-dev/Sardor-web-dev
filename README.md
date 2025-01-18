@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 - 🌱 I’m currently learning advanced JavaScript frameworks.
 - 💼 I’m looking for new opportunities to collaborate on web development projects.
-- 📫 How to reach me: sardor@example.com
+- 📫 How to reach me: https://reactpartfolio.netlify.app/
 
 ## Skills
 
