@@ -1,4 +1,4 @@
-########### Hi, I'm Sardor Djamolov! 👋
+# Hi, I'm Sardor Djamolov! 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer with a keen interest in creating dynamic and interactive web applications. Below, you'll find a bit about me, my skills, and some of the projects I've worked on.
 
