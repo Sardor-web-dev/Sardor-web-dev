@@ -14,12 +14,13 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 - **Languages:** HTML, CSS, JavaScript
 - **Frameworks:** React, Vue, Node.js,Tailwind CSS
-- **Tools:** Git, Webpack, Visual Studio Code
+- **Tools:** Git, Webpack, Visual Studio Code  ![javascript-original](https://github.com/user-attachments/assets/c1d96371-5e8d-456c-9ed3-e5590358d323)
 
 ## Projects
 
 ### [Project 1: Portfolio Website]([https://github.com/Sardor-web-dev/portfolio-react](https://github.com/Sardor-web-dev/React-partfolio.git))
-A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and React JS.
+A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and React JS. 
+
 
 ## GitHub Stats
 
