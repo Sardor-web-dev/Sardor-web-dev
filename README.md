@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## Projects
 
-### [Project 1: Portfolio Website](https://github.com/Sardor-web-dev/portfolio-react)
-A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.
+### [Project 1: Portfolio Website]([https://github.com/Sardor-web-dev/portfolio-react](https://github.com/Sardor-web-dev/React-partfolio.git))
+A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and React JS.
 
 ## GitHub Stats
 
