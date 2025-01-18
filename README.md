@@ -1,16 +1,32 @@
-## Hi 👋, I'm Djamolov Sardor
+# Hi there, I'm Sardor-web-dev! 👋
 
-<!--
-**Sardor-web-dev/Sardor-web-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate web developer with a keen interest in creating dynamic and interactive web applications. Below, you'll find a bit about me, my skills, and some of the projects I've worked on.
 
-Here are some ideas to get you started:
+## About Me
 
- 🔭 I’m currently working on ...
- 🌱 I’m currently learning ...
- 👯 I’m looking to collaborate on ...
- 🤔 I’m looking for help with ...
- 💬 Ask me about ...
- 📫 How to reach me: ...
- 😄 Pronouns: ...
- ⚡ Fun fact: ...
+- 🌱 I’m currently learning advanced JavaScript frameworks.
+- 💼 I’m looking for new opportunities to collaborate on web development projects.
+- 📫 How to reach me: sardor@example.com
 
+## Skills
+
+- **Languages:** HTML, CSS, JavaScript
+- **Frameworks:** React, Vue, Node.js,Tailwind CSS
+- **Tools:** Git, Webpack, Visual Studio Code
+
+## Projects
+
+### [Project 1: Portfolio Website](https://github.com/Sardor-web-dev/portfolio-react)
+A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.
+
+## GitHub Stats
+
+![Sardor-web-dev's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sardor-web-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-web-dev&layout=compact&theme=radical)
+
+## Get in Touch
+
+- LinkedIn: [linkedin.com/in/sardor-web-dev]([https://linkedin.com/in/sardor-web-dev](https://www.linkedin.com/in/sardor-djamolov-913897347))
+- Telegram: [twitter.com/sardor_web_dev]((https://t.me/Djamolov_Sardor))
+
+Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate on any project.
