@@ -4,9 +4,11 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## About Me
 
-- 🌱 I’m currently learning advanced JavaScript frameworks.
+- 💻 I’m currently learning advanced JavaScript frameworks.
 - 💼 I’m looking for new opportunities to collaborate on web development projects.
-- 📫 How to reach me: https://reactpartfolio.netlify.app/
+- 📫 My Partfolio: https://reactpartfolio.netlify.app/
+- 📲 Telegram Contact: https://t.me/Djamolov_Sardor
+ 
 
 ## Skills
 
