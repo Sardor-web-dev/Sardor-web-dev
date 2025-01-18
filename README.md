@@ -1,4 +1,4 @@
-# Hi there, I'm Sardor-web-dev! 👋
+# Hi, I'm Sardor Djamolov! 👋
 
 Welcome to my GitHub profile! I'm a passionate web developer with a keen interest in creating dynamic and interactive web applications. Below, you'll find a bit about me, my skills, and some of the projects I've worked on.
 
@@ -27,6 +27,6 @@ A personal portfolio website to showcase my projects and skills. Built with HTML
 ## Get in Touch
 
 - LinkedIn: [linkedin.com/in/sardor-web-dev]([https://linkedin.com/in/sardor-web-dev](https://www.linkedin.com/in/sardor-djamolov-913897347))
-- Telegram: [twitter.com/sardor_web_dev]((https://t.me/Djamolov_Sardor))
+- Telegram: [tg/sardor_web_dev]((https://t.me/Djamolov_Sardor))
 
 Thanks for visiting my profile! Feel free to explore my repositories and reach out if you want to collaborate on any project.
