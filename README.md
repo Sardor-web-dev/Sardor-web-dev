@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks:** React, Vue, Node.js, Tailwind CSS, Next JS, Express, MongoDb
+- **Frameworks:** React, Vue, Node.js, Tailwind CSS, Next JS, Express, PosgreSQL
 - **Tools:** Git, Webpack, Vite, Visual Studio Code
 
 ## Projects
