@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## About Me
 
-- 💻 I’m currently learning advanced JavaScript frameworks.
+- 💻 I’m currently learning Backend.
 - 💼 I’m looking for new opportunities to collaborate on web development projects.
 - 📫 My Partfolio: https://reactpartfolio.netlify.app/
 - 📲 Telegram Contact: https://t.me/Djamolov_Sardor
@@ -12,9 +12,9 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript
-- **Frameworks:** React, Vue, Node.js, Tailwind CSS, Next JS, Express, PosgreSQL
-- **Tools:** Git, Webpack, Vite, Visual Studio Code
+- **Languages:** HTML, CSS, JavaScript, TypeScript, GoLang
+- **Frameworks:** React, Vue, Node.js, Tailwind CSS, Next JS, Express, PosgreSQL, React Native, Expo
+- **Tools:** Git, Webpack, Vite, Visual Studio Code, Android Studio
 
 ## Projects
 
