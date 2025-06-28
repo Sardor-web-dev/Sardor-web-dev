@@ -12,8 +12,8 @@ Welcome to my GitHub profile! I'm a passionate web developer with a keen interes
 
 ## Skills
 
-- **Languages:** HTML, CSS, JavaScript, TypeScript, GoLang
-- **Frameworks:** React, Vue, Node.js, Tailwind CSS, Next JS, Express, PosgreSQL, React Native, Expo
+- **Languages:** HTML, CSS, JavaScript, ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white), GoLang
+- **Frameworks:** React, Vue, Node.js, ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white), ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js&logoColor=white), GORM, PosgreSQL, React Native, Expo, Prisma
 - **Tools:** Git, Webpack, Vite, Visual Studio Code, Android Studio
 
 ## Projects
