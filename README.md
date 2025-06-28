@@ -60,8 +60,8 @@ A full-featured e-commerce store for kids clothing.
 
 ## 📊 GitHub Stats
 
-![Sardor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sardor-web-dev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-web-dev&layout=compact&theme=radical)
+![Sardor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sardor-web-dev&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sardor-web-dev&layout=compact&theme=tokyonight)
 
 ---
 
