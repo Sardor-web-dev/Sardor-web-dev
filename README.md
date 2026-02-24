@@ -7,7 +7,7 @@ I'm a passionate **frontend & fullstack web developer** who loves building fast,
 
 ## 👨‍💻 About Me
 
-- 🔭 Currently learning **Backend** development (Go, Node.js, Prisma, PostgreSQL).
+- 🔭 Currently learning **Backend** development (Go, Node.js, Prisma, PostgreSQL, Python).
 - 🌱 Constantly improving my skills in **React**, **Next.js**, and **Fullstack Development**.
 - 💼 Looking for new opportunities and collaborations on exciting web projects.
 - 🧠 Always curious and motivated to learn new technologies.
