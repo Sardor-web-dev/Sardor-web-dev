@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Sardor Djamolov**
 
 Welcome to my GitHub profile!  
-I'm a passionate **frontend & fullstack web developer** who loves building fast, modern, and scalable web applications.
+I'm a passionate **fullstack web developer** who loves building fast, modern, and scalable web applications.
 
 ---
 
